@@ -10,3 +10,29 @@ button{
     justify-content: center;
     align-items: center;
 }
+
+.single-tour {
+    margin: 1rem;
+    padding: 1rem;
+    border: 1px solid #ccc;
+  }
+  
+  .tour-info {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+  
+  .tour-price {
+    color: green;
+  }
+  
+  .delete-btn {
+    margin-top: 10px;
+    background: red;
+    color: white;
+    border: none;
+    padding: 0.5rem;
+    cursor: pointer;
+  }
+      
